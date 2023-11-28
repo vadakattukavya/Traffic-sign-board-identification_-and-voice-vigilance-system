@@ -1,0 +1,8 @@
+Traffic Sign Board Recognition and Voice Alert System using Convolutional Neural Network
+
+CNN Model Architecture
+
+
+Accuracy score:  0.969
+
+
